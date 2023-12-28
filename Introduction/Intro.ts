@@ -6,12 +6,11 @@
 // What is TypeScript?
 
 // - TypeScript is a Superset of Javascript which is Created by Microsoft.
+// - Typescript is not about reinventing javascript. Typescript just allow us to write javascript in a much precise manner so that your code faces a lot less error in the runtime. If there is any error, it is already being displayed to us while writing the code at the kind of when we're just typing them out in our favorite editor.
 // - It Allows statuc strict typing.
 // - Extra features: Interfaces, enums, tuples, generucs.
 // - Support modern Features(Arrow functions, let, const)
 // Typescript is based on the .NET harmony specification.
-
-
 
 
 
@@ -22,9 +21,6 @@
 // - Weired inheritance, unfamiliar syntax.
 // - Only errors During runtime where typescript will show the error on the compilation time.
 // - Suffers Type coercion.
-
-
-
 
 
 
