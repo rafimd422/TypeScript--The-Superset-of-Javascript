@@ -15,7 +15,6 @@
 
 
 // What was wrong with javascript?
-
 // - Javascript is Not suitable for large applcations.
 // - Javascript has no strong typing.
 // - Weired inheritance, unfamiliar syntax.
