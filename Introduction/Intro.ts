@@ -2,7 +2,6 @@
  // Step 1: Make sure Node.js is available in your mechine.
  // Step 2: Install TypeScript compiler using: npm i -g typescript
 
-
 // What is TypeScript?
 
 // - TypeScript is a Superset of Javascript which is Created by Microsoft.
@@ -24,5 +23,5 @@
 
 // - TypeScript = Javascript
 // - Compiles to Javascript - runs everyWhere.
-// - Familiar with Object Oriented Programming(OOP).
+// - Familiar with Object Oriented Programming(OOP)
 // - New Features of javascript work everywhere in typeScript.
