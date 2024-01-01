@@ -13,15 +13,12 @@
 // Typescript is based on the .NET harmony specification.
 
 
-
 // What was wrong with javascript?
 // - Javascript is Not suitable for large applcations.
 // - Javascript has no strong typing.
 // - Weired inheritance, unfamiliar syntax.
 // - Only errors During runtime where typescript will show the error on the compilation time.
 // - Suffers Type coercion.
-
-
 
 // Benefits of TypeScript
 
