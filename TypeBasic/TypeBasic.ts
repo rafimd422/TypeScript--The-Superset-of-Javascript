@@ -30,3 +30,20 @@ function multiply(a:number ,b:number){
 }
          // we can only set a number on the parameter. because we already set the type. and it only possible in typescript
 
+
+// four [Array]
+let fruits = ["apple", "banana", "orange"]
+fruits.push(34) // it is showing error because we added only strings on our array. so it already assume this as string. so, it didn't number on it.
+
+
+let mixed = ["apple", 34, true]
+mixed.push(34) // it isn't returning error because in this array, already appears a string, number and boolean. but we cannot add any other types thing such as, object or else. we can only push a string, number and boolean.
+
+
+// five [Object]
+let person = {
+    name: 'Mashrafi',
+    age: 35,
+    isCaptain:true,
+};
+// in this object if we want to change the value, we only can add the value which is match with the current value. such as, {person.name = "Shakib"} but we can't add like, {person.name = 10} <= this one will show error. 
