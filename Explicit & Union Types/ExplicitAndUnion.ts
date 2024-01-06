@@ -14,3 +14,16 @@ let b:string[] = []
 let c:(string | number)[] = []
 
 c.push('sumit', 45)
+
+// in object
+let d:{
+    name:string;
+    age:number;
+    adult: boolean;
+};
+
+d = {
+    name: "Rafi",
+    age: 34,
+    adult: true
+}
