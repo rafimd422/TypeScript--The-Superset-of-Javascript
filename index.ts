@@ -1,4 +1,4 @@
-// ts from sumit saha playlist
+// ts from Anisul islam playlist
 
 let Name:string; 
 Name = "Rafi"
