@@ -13,5 +13,9 @@ const yFunc:Function = () => {
 console.log("hello")
 }
 
+//Paramas of function
 
+const func:Function = (a:string, b:string) => {
+    console.log("hello")
+    } // here we can only add string as the parameter.
 
