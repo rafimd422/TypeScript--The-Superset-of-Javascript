@@ -19,3 +19,8 @@ const func:Function = (a:string, b:string) => {
     console.log("hello")
     } // here we can only add string as the parameter.
 
+// to set a parameter as optional,
+const fun:Function = (a:string, b:string, c?:number) => {
+    console.log("hello")
+    } // the c parameter is optonal.
+
