@@ -1,5 +1,7 @@
 
 // Function types are void by Default
+// Void means there is no value
+// The funciton will not return void if it return something.
 
 const myFunc = () => {
 console.log("hello")
