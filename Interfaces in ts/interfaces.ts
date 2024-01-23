@@ -15,3 +15,16 @@ function drowRectangle(options:RectanglOptions){
 
 drowRectangle({width:54, length:75})
 
+// implement interface on object
+
+interface person {
+    name:string;
+    age:number;
+    mobile:number;
+}
+
+const rafi:person = {
+    name:'Rafi',
+    age:24,
+    mobile:45896
+}
