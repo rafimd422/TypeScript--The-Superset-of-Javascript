@@ -1,0 +1,1 @@
+// Interfaces are a feature of TypeScropt what allows us to define structure or shap of an object and specify the properties and methods that an object has or should have 
