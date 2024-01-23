@@ -1,0 +1,1 @@
+// Generics is a reuseable block of code which we can use for types.
